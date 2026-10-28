@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "xarray_leaflet",
+  "versions": [
+    {
+      "commit": "e3f9c5d5690e65c5617abbcf2f83000394102da6",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:09:49.193596+00:00"
+    }
+  ]
+}
